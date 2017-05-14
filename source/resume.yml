@@ -10,7 +10,7 @@ links:
     img: github.png
 address:
   street: Rombout Hogerbeetsstraat 11
-  city: Midden Beemster
+  city: Middenbeemster
   country: Netherlands
 description: |
   I'm a Full-Stack software developer with a direct and energetic personality.
@@ -81,6 +81,8 @@ experiences:
       - React
       - Redux
       - Sass
+      - Elasticsearch
+      - MongoDB
   - company: Rabobank Hypotheek Dossier - Rabobank
     title: Java Developer
     from: January 2015
