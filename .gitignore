@@ -1,0 +1,7 @@
+/.bundle
+/.tmp
+/node_modules
+/.sass-cache
+/.cache
+/vendor
+/.idea

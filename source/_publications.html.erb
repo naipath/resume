@@ -1,0 +1,16 @@
+<section>
+
+  <h3 class="title">Publications</h3>
+  <div>
+
+    <ul>
+
+    <% resume_yml.publications.each do |publication| %>
+      <li>
+        <%= publication.title + ' - ' + publication.magazine + ', ' + publication.date %>
+      </li>
+    <% end %>
+
+  </div>
+
+</section>

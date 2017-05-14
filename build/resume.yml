@@ -1,0 +1,129 @@
+name: Teije van Sloten
+title: Full-Stack developer
+email: teije-vs@hotmail.com
+birthday: January 10, 1993
+mobile: +31 6 55 29 68 73
+links:
+  - url: https://www.linkedin.com/in/teije-van-sloten-3b8111b2/
+    img: linkedin-in-logo.png
+  - url: https://github.com/naipath
+    img: github.png
+address:
+  street: Rombout Hogerbeetsstraat 11
+  city: Midden Beemster
+  country: Netherlands
+description: |
+  I'm a Full-Stack software developer with a direct and energetic personality.
+  I delight in using different paradigms from various languages or frameworks.
+#  Working with different paradigms from various languages or frameworks I thoroughly enjoy doing.
+
+stack : |
+  Currently my go-to stack is Java8 Spring Boot with a React + Redux / Sass frontend.
+
+passion:  |
+  My passion is creating awesome software in any language.
+#  Creating awesome software in any language is what I enjoy doing most.
+
+skills:
+  - name: Java
+    years: 3
+  - name: Spring
+    years: 2
+  - name: Scala
+    years: 1
+  - name: JavaScript
+    years: 4
+  - name: Node.js
+    years: 1
+  - name: React JS
+    years: 2
+  - name: Redux
+    years: 2
+  - name: AngularJS
+    years: 1
+  - name: HTML
+    years: 5
+  - name: CSS
+    years: 5
+  - name: Sass
+    years: 2
+  - name: Elasticsearch
+    years: 1
+  - name: MongoDB
+    years: 1
+  - name: PHP
+    years: 3
+  - name: MySQL
+    years: 3
+  - name: Scrum
+    years: 2
+  - name: Devops
+    years: 1
+publications:
+  - title: REST-assured, wees gerust!
+    magazine: Java Magazine
+    date: January 2017
+hobbies:
+  - name: Programming
+    icon: programming.png
+  - name: Table Tennis
+    icon: table_tennis.jpg
+experiences:
+  - company: Homecatcher App - Rabobank
+    title: Full-Stack developer
+    from: May 2016
+    until: now
+    description: Responsible for the entire software process as part of a self-organizing team seconded by Ordina.
+    technologies:
+      - Java 8
+      - Spring Boot
+      - Mesos/Marathon
+      - React
+      - Redux
+      - Sass
+  - company: Rabobank Hypotheek Dossier - Rabobank
+    title: Java Developer
+    from: January 2015
+    until: May 2016
+    description: Software developer for the Rabobank Hypotheek Dossier project aimed at improving the morgage proces seconded by Ordina.
+    technologies:
+      - Java 7
+      - Spring MVC
+      - AngulerJS
+      - Oracle SQL
+  - company: Henri Willig Kaasmakerij
+    title: IT employee
+    from: July 2013
+    until: December 2015
+    description: IT employee that helped and coordinated various automation projects within the company, such as managing the ERP system and the connections made to it.
+    technologies:
+      - AFAS
+      - PHP
+      - SOAP
+      - Javascript
+      - CodeIgniter
+  - company: Henri Willig Kaasmakerij
+    title: Logistics Assistant
+    from: July 2012
+    until: June 2013
+    description: Responsible for plastifing and riping process of cheese aswell as coordinating other colleagues on the sunday shift.
+
+educations:
+  - name: Hogeschool van Amsterdam
+    description: Information Technology
+    from: September 2013
+    to: now
+  - name: Jan van Egmond Lyceum
+    description: VWO - Nature and Technology
+    from: September 2006
+    to: July 2012
+languages:
+  - name: Dutch
+    proficiency: Native
+    visualize: full-circle
+  - name: English
+    proficiency: Excellent
+    visualize: three-quarters-circle
+  - name: German
+    proficiency: Basic
+    visualize: one-quarters-circle
