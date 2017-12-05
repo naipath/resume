@@ -17,24 +17,26 @@ description: |
   I delight in using different paradigms from various languages or frameworks.
 
 stack : |
-  Currently my go-to stack is Java8 Spring Boot with a React + Redux / Sass frontend.
+  Currently my go-to stack is a Golang back-end with a React + Redux / Sass frontend.
 
 passion:  |
   My passion is creating awesome software in any language.
 
 skills:
+  - name: JavaScript
+    years: 5
+  - name: React JS
+    years: 5
   - name: Java
+    years: 4
+  - name: Golang
     years: 3
   - name: Spring
-    years: 2
+    years: 3
   - name: Scala
     years: 1
-  - name: JavaScript
-    years: 4
   - name: Node.js
     years: 1
-  - name: React JS
-    years: 2
   - name: Redux
     years: 2
   - name: AngularJS
