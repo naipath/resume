@@ -68,41 +68,27 @@ hobbies:
     icon: table_tennis.jpg
 experiences:
   - company: Investments App - ING
-      title: Front-end developer
-      from: August 2017
-      until: now
-      description: Responsible for setting up the start of the new investments application seconded by Xebia.
-      technologies:
-        - Polymer 2
-        - React
-        - Redux
+    title: Front-end developer
+    from: August 2017
+    until: now
+    description: Responsible for setting up the start of the new investments application seconded by Xebia.
+    technologies:
+      - Polymer 2
+      - React
+      - Redux
   - company: Laser application - Mundi Technology
-      title: Full-Stack developer
-      from: July 2017
-      until: August 2017
-      description: Create application that interfaces with an industrial laser.
-      technologies:
-        - Golang
-        - Vue.js
-        - Sass
+    title: Full-Stack developer
+    from: July 2017
+    until: August 2017
+    description: Create application that interfaces with an industrial laser.
+    technologies:
+      - Golang
+      - Vue.js
+      - Sass
   - company: Homecatcher App - Rabobank
     title: Full-Stack developer
     from: May 2016
     until: July 2017
-    description: Responsible for the entire software process as part of a self-organizing team seconded by Ordina.
-    technologies:
-      - Java 8
-      - Spring Boot
-      - Mesos/Marathon
-      - React
-      - Redux
-      - Sass
-      - Elasticsearch
-      - MongoDB
-  - company: Rabobank Hypotheek Dossier - Rabobank
-    title: Java Developer
-    from: January 2015
-    until: May 2016
     description: Software developer for the Rabobank Hypotheek Dossier project aimed at improving the morgage proces seconded by Ordina.
     technologies:
       - Java 7
