@@ -23,6 +23,12 @@ section.skills {
       color: $dark-grey;
     }
   }
+  
+  @media print {
+    .year {
+      -webkit-print-color-adjust: exact; 
+    }
+  }
 
   @media screen and (max-width: 900px) {
     .year {

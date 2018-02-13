@@ -4,8 +4,6 @@ email: tvansloten@xebia.com
 birthday: January 10, 1993
 mobile: +31 6 55 29 68 73
 links:
-  - url: https://www.linkedin.com/in/teije-van-sloten-3b8111b2/
-    img: linkedin-in-logo.png
   - url: https://github.com/naipath
     img: github.png
 address:
@@ -29,16 +27,16 @@ skills:
     years: 5
   - name: Java
     years: 4
+  - name: Redux
+    years: 3
   - name: Golang
     years: 3
   - name: Spring
     years: 3
   - name: Scala
-    years: 1
+    years: 2
   - name: Node.js
     years: 1
-  - name: Redux
-    years: 2
   - name: AngularJS
     years: 1
   - name: HTML
@@ -69,10 +67,20 @@ hobbies:
   - name: Table Tennis
     icon: table_tennis.jpg
 experiences:
+  - company: Home Charging project - Vandebron
+    title: Full-Stack developer
+    from: January 2018
+    until: now
+    description: Created functionality in order to supply consumers with Home Charging poles seconded by Xebia.
+    technologies:
+      - React
+      - Redux
+      - Scala
+      - Spray
   - company: Investments App - ING
     title: Front-end developer
     from: August 2017
-    until: now
+    until: December 2017
     description: Responsible for setting up the start of the new investments application seconded by Xebia.
     technologies:
       - Polymer 2

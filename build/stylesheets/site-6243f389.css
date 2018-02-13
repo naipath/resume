@@ -1700,17 +1700,21 @@ section.skills .year {
   /* line 22, modules/_skills.scss */
   section.skills .year span:first-child {
     color: #555555; }
-@media screen and (max-width: 900px) {
+@media print {
   /* line 28, modules/_skills.scss */
+  section.skills .year {
+    -webkit-print-color-adjust: exact; } }
+@media screen and (max-width: 900px) {
+  /* line 34, modules/_skills.scss */
   section.skills .year {
     width: 5px;
     height: 5px; } }
 @media screen and (max-width: 400px) {
-  /* line 35, modules/_skills.scss */
+  /* line 41, modules/_skills.scss */
   section.skills .year {
     width: 3px;
     height: 3px; }
-  /* line 40, modules/_skills.scss */
+  /* line 46, modules/_skills.scss */
   section.skills .legend span:first-child, section.skills .skill span:first-child {
     width: 100px; } }
 
