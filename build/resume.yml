@@ -7,15 +7,15 @@ links:
   - url: https://github.com/naipath
     img: github.png
 address:
-  street: Rombout Hogerbeetsstraat 11
-  city: Middenbeemster
+  street: Bert Haanstrakade
+  city: Amsterdam
   country: Netherlands
 description: |
   I'm a Full-Stack software developer with a direct and energetic personality.
   I delight in using different paradigms from various languages or frameworks.
 
 stack : |
-  Currently my go-to stack is a Golang back-end with a React + Redux frontend.
+  Currently my go-to stack is a Golang back-end with a React frontend.
 
 passion:  |
   My passion is creating awesome software in any language.
@@ -64,13 +64,72 @@ publications:
 hobbies:
   - name: Programming
     icon: programming.png
-  - name: Table Tennis
-    icon: table_tennis.jpg
+  - name: Swimming
+    icon: schwimming.png
 experiences:
+  - company: Fontem Ventures
+    title: Full-Stack developer
+    from: November 2019
+    until: now
+    description: Build the various integrations on top of the new e-commerce platform seconded by Xebia.
+    technologies:
+      - CSharp
+      - Dotnet core
+      - Azure + Terraform
+  - company: FOX-IT
+    title: Front-end developer
+    from: October 2019
+    until: November 2019
+    description: Recreated new security website for FOX-IT seconded by Xebia.
+    technologies:
+      - React
+      - Gatsbyjs
+  - company: Fontem Ventures
+    title: Full-Stack developer
+    from: April 2019
+    until: September 2019
+    description: Builded the capability for launching new brand sites into the new e-commerce platform seconded by Xebia.
+    technologies:
+      - React + Nextjs
+      - CSharp + Dotnet core
+  - company: Xebia Academy
+    title: Full-Stack developer
+    from: January 2019
+    until: April 2019
+    description: Created the training platform for the Xebia Academy
+    technologies:
+      - Vue + Stylus
+      - Kotlin + Ktor
+  - company: Imperial Brands
+    title: Full-Stack developer
+    from: November 2018
+    until: January 2019
+    description: Build the platform for a new product seconded by Xebia.
+    technologies:
+      - React + Gatsbyjs
+      - Netlify
+  - company: Fontem Ventures
+    title: Full-Stack developer
+    from: July 2018
+    until: November 2018
+    description: Created the front-end for the e-commerce platform seconded by Xebia.
+    technologies:
+      - React + Gatsbyjs
+      - Netlify
+  - company: Intergamma
+    title: Full-Stack developer
+    from: March 2018
+    until: July 2018
+    description: Created the account management environment and checkout for the Intergamma brand.
+    technologies:
+      - React
+      - Nextjs
+      - Spring Boot
+      - AWS S3 + Cloudfront
   - company: Home Charging project - Vandebron
     title: Full-Stack developer
     from: January 2018
-    until: now
+    until: February 2018
     description: Created functionality in order to supply consumers with Home Charging poles seconded by Xebia.
     technologies:
       - React
@@ -140,7 +199,7 @@ educations:
   - name: Hogeschool van Amsterdam
     description: Information Technology
     from: September 2013
-    to: now
+    to: Not finished
   - name: Jan van Egmond Lyceum
     description: VWO - Nature and Technology
     from: September 2006
